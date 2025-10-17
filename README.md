@@ -756,6 +756,7 @@ XCPC赛事的核心是**三人团队协作**。一个高效的团队远超个人
 | [cftracker.netlify.app/contests](https://cftracker.netlify.app/contests) | Codeforces 已经举办过的比赛可视化追踪器，可以直观地看到自己做过哪些题与题目对应的难度。 |
 | [luogu.com.cn](https://www.luogu.com.cn/)                    | 国内大型 OI/XCPC 社区与题库，支持同步多平台题目与刷题统计，配有高质量文章区。 |
 | [ac.nowcoder.com/acm/contest/vip-index](https://ac.nowcoder.com/acm/contest/vip-index) | 牛客网竞赛中心，提供每周有周赛/月赛/练习赛/挑战赛，假期会有寒假训练营与暑假多校。 |
+| [nowcodertracker](https://www.nowcoder.com/problem/tracker) | 牛客网题目可视化追踪器，此外包含ranking和打卡活动等内容 |
 | [qoj.ac](https://qoj.ac/)                                    | 收录国内外知名比赛、训练营与训练活动的大型算法题库，尤其是中国 ICPC 与 CCPC 区域赛题目最为齐全，并独家整理了许多高质量但传播度不广的试题集。是全球众多 IOI 和 ICPC World Finals 选手的核心训练平台。 |
 | [ucup.ac/zh](https://ucup.ac/zh/)                            | Universal Cup 是一个 2023 年创办的主要面向算法竞赛爱好者的公益组织，致力于提供高质量的实战演练，举办面向全球顶尖选手的线下赛事， 目标建立起横跨工业界、学术界、竞赛界的沟通桥梁，打造超越国界、超越年龄的紧密社区。 在上个赛季的线上训练中，来自全球 500 多个组织的 900 多支队伍注册并参加了总共 28 个阶段的比赛，这些比赛来自亚洲、欧洲和美洲。 |
 | [atcoder.jp/contests](https://atcoder.jp/contests)           | 日本 AtCoder 官方比赛列表，每周六/日会有ABC, ARC比赛等。同样是全球知名算法竞赛平台。ABC是训练的重要比赛之一。 |

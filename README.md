@@ -20,7 +20,7 @@
 
 GitHub主页：[【打破信息差】萌新认识与入门算法竞赛](https://github.com/NullResot/xcpc)
 
-博客wiki版本：[AlgoWiki-竞赛Wiki]([https://nullresot.github.io/xcpc-wiki/](https://www.algowiki.cn/wiki?category=xcpc-sites))
+博客wiki版本：[AlgoWiki-竞赛Wiki](https://www.algowiki.cn/wiki?category=xcpc-sites)
 
 **版权与使用声明**
 

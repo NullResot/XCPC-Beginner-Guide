@@ -10,7 +10,7 @@
 
 本文章首次完成于 2025年7月1日。
 
-本文章最近一次更新于 2026年1月20日。
+本文章最近一次更新于 2026年4月21日。
 
 后续或有对内容的修正与补充，最新版内容请以GitHub版本为准。
 
@@ -20,7 +20,7 @@
 
 GitHub主页：[【打破信息差】萌新认识与入门算法竞赛](https://github.com/NullResot/xcpc)
 
-博客wiki版本：[【打破信息差】萌新认识与入门算法竞赛](https://nullresot.github.io/xcpc-wiki/)
+博客wiki版本：[AlgoWiki-竞赛Wiki]([https://nullresot.github.io/xcpc-wiki/](https://www.algowiki.cn/wiki?category=xcpc-sites))
 
 **版权与使用声明**
 
